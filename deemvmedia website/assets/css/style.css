@@ -160,5 +160,7 @@ body {
   form button:hover {
     background: #007acc;
   }
-  
+  p{
+    margin-left: 1.5em;
+  }
   
